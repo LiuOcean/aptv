@@ -3,6 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/0f82d0608ed146a89f0b08e687ad2bb5_middle.jpg" group-title="热门游戏", 超级小桀
+http://live.aptvapp.com/live/douyu/74751
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/0f82d0608ed146a89f0b08e687ad2bb5_middle.jpg" group-title="热门游戏", 20岁天才歌手Running
 http://live.aptvapp.com/live/douyu/2448877
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/ff78ae4255ab4dcc9e33f0724b228e0a_middle.jpg" group-title="热门游戏", 别问问就黑皮
